@@ -1,4 +1,5 @@
 # Bem vindos ao Grupo Moskitto 🦟
+[![GitHub contributors](https://img.shields.io/github/contributors/joaomatossilva/datetimeextensions.svg)](https://github.com/GrupoMoskitto)
 
 ## Membros do Grupo:
 - [Ana Luiza](https://github.com/anarand) -

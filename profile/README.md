@@ -1,5 +1,4 @@
 # Bem vindos ao Grupo Moskitto 🦟
-
 ## Membros do Grupo:
 - [Ana Luiza](https://github.com/anarand) -
   <a href="https://www.linkedin.com/in/ana-luiza-santana-124023240/">

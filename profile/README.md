@@ -21,10 +21,6 @@
 Disponível em breve
 
 ## 🌐 Redes Sociais do Grupo 🦟
-<div align="left">
-  <a href="https://www.instagram.com/moskitto.inc">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-icon">
-  </a>
   <a href="https://www.youtube.com/@moskitto-e6c">
     <img src="https://img.shields.io/badge/YouTube-EB1308?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube-icon">
   </a>
